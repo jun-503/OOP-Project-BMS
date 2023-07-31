@@ -1,0 +1,4 @@
+junaid,1234,customer,3AZ,123,123,12345;zia;10000
+junaid,123478,customer,3AZ,123,213Shalama,123;zia;-1000
+junaid,1290,customer,4AZ,23,13Sha,1234;zia;11000
+junaid,7890,customer,5AZ,123,shalamr,7890;zia;12000
